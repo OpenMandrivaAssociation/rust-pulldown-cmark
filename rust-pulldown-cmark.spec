@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.8.0
-Release:        1
+Release:        2
 Summary:        Pull parser for CommonMark
 
 # Upstream license specification: MIT
