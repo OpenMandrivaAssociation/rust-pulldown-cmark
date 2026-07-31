@@ -4,8 +4,8 @@
 %global crate pulldown-cmark
 
 Name:           rust-%{crate}
-Version:        0.8.0
-Release:        2
+Version:        0.13.4
+Release:        1
 Summary:        Pull parser for CommonMark
 
 # Upstream license specification: MIT
